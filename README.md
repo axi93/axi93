@@ -1,11 +1,14 @@
 # Hey! Nice to see you! 👋
-
+---
 I'm Aitor Torreño as know here in Github as axi93
 
-- 🏄‍I work as a BI Devoloper but I want to **switch** to the world of Backend so I'm self-taught doing small projects!
+[![Linkedin Badge](https://img.shields.io/badge/-aitortorreno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aitortorreno/)](https://www.linkedin.com/in/aitortorreno/) 
+[![GitHub followers](https://img.shields.io/github/followers/axi93?label=Follow&style=social)](https://github.com/ax93/?tab=follow)
+
+- 🏄‍I work as a BI Devoloper but I want to **switch** to the world of Back End so I'm self-taught doing small projects!
 - 🌱I’m currently learning Golang but I'm open to new challenges
 - 💬I am interested in collaborating in order to continue learning, so feel free contact me
-- 🤔 I’m looking for a opportuinity relationed with the world of back end 
+- 🤔 I’m looking for a opportuinity relationed with the world of Back End 
 
 ## Things I code with
 ![](https://img.shields.io/badge/Golang-informational?style=flat&logo=go&logoColor=white&color=29BEB0)
