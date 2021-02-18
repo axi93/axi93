@@ -1,6 +1,6 @@
 # Hey! Nice to see you! 👋
 
-I'm Aitor Torreño as know here in Github ![GitHub Logo](https://logos-marcas.com/wp-content/uploads/2020/11/GitHub-Logo.png) as axi93
+I'm Aitor Torreño as know here in Github as axi93
 
 I work as a Bussines Intelligence Devoloper but I want to switch to Develop so here I am, doing small projects on my own!
 
